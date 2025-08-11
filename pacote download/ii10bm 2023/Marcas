@@ -1,0 +1,17 @@
+Tendo essencialmente como base AKscyn,R.M.(1992),será inportante nesta altura referir dos elementos constituintes das estruturas dos sistemas hipermedia.Desde modo temos:
+a rede,que não é mais do que uma coleção de ligações e nós que  fazem funcionar o documento hipermedia 
+a ligação,que é uma instrução embebida num tronco de informação que vai para outro nó da rede ;
+o nó,é o destino da ligação, e dependendo do sistema poderá ser uma página,um gráfico,um texto,um som ,uma animação ,um vídeo ,uma abstração (por exemplo um botão ),etc.Um nó deverá possuir uma série de propriedades:
+Mais importantes:
+Nome.
+Propriedades.
+Permissões/protecções para vários grupos.
+Número de versão.
+Script.
+mais ou menos importantes:
+Quando foi criado.
+Quando foi a última modificação.
+A última modificação.
+menos importantes:
+Cor do background/forground.
+Arquivado ou não.
